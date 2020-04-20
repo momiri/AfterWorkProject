@@ -68,7 +68,7 @@ namespace AfterWorkItLink
             }
         }
 
-        public ListeLinkersInvited()
+        public ListeLinkersInvited() //test commit
         {
             MyListLinkers = new ObservableCollection<Linker>();
             //LinkerSelectionnee = new Linker() { Email = "momiei", Status = "yes" };
